@@ -10,7 +10,7 @@
 # How to bind diagram items' Position to the source objects
 This example demonstrates how to use DiagramBinding to bind the Position property of diagram items to their view models in two-way mode. 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=How-to-bind-diagram-items-Position&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=How-to-bind-diagram-items-Position&~~~was_helpful=no)
 
